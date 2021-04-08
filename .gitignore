@@ -1,0 +1,9 @@
+
+**.swp
+**.tmp
+**.terraform/
+**.lock.hcl
+**/secrets.auto.tfvars
+**/secrets.*.yml
+**/core.*
+
